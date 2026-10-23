@@ -18,5 +18,5 @@ Not tested on modded vehicles, but it should work.
 
 [join my discord server](https://discord.gg/5BcPpKHyxg)
 
-https://github.com/user-attachments/assets/c5d82115-5946-47f9-8a56-38cf294c3837
+[showcase video](https://github.com/user-attachments/assets/c5d82115-5946-47f9-8a56-38cf294c3837)
 
