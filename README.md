@@ -2,7 +2,7 @@
 
 Lets every player in a lobby interact with and ride in each other’s vehicles:
 
-Requirements: BeamNG.Drive 0.40 or above, beammp and a beammp server 
+Requirements: BeamNG.Drive 0.40 or above, beammp and a beammp server.
 
 Installation: extract Client.zip into your server’s Resources/Client/ folder and Server.zip into Resources/Server/, then restart the server.
 
