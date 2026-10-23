@@ -1,13 +1,11 @@
 # beammp-shared-vehicle-controls
 
-mod that improves how beammp works
+Lets every player in a lobby interact with and ride in each other’s vehicles:
 
-this is a server mod, so you need to install in your beammp server's folder;
+Mouse-click vehicle interactions (doors, hazards, engine, etc.) work on other players’ cars, synced to everyone
+Players can sit in any seat and see each other seated, with proper exclusivity
+Guests can actually drive someone else’s car from the passenger/driver seat
+Late joiners and newly-spawned cars sync correctly
+Various stability fixes (seat-sync crash fix, duplicate-claim/flicker fix, disconnect cleanup)
 
-this mod adds visible player models to car seats, and player interactions.
-
-instalation:
-
-extract Client.rar into the Client folder in your beammp server folder.
-
-extract Server.rar into the Server folder in your beammp server folder.
+Installation: extract Client.zip into your server’s Resources/Client/ folder and Server.zip into Resources/Server/, then restart the server.
