@@ -1,6 +1,6 @@
 # beammp-shared-vehicle-controls
 
-Lets every player in a lobby interact with and ride in each other’s vehicles:
+Lets every player in a lobby interact with and dride in each other’s vehicles:
 
 Requirements: BeamNG.Drive 0.40 or above, beammp and a beammp server.
 
