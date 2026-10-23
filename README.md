@@ -8,7 +8,7 @@ Requirements:
   
   -BeamMP
   
-  -BeamMP server
+  -a BeamMP server
 ```
 Installation: extract Client.zip into your server’s Resources/Client/ folder and Server.zip into Resources/Server/, then restart the server.
 
