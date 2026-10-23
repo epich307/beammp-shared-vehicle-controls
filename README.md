@@ -2,7 +2,7 @@
 
 # beammp shared vehicle controls
 
-** Lets every player in a lobby interact with and drive in each other’s vehicles: **
+**Lets every player in a lobby interact with and drive in each other’s vehicles:**
 ```
 Requirements: 
 
