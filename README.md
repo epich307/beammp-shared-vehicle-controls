@@ -16,7 +16,7 @@ Installation: extract Client.zip into your server’s Resources/Client/ folder a
 
 Not tested on modded vehicles, but it should work.
 
-As far as I know [Hands on the Wheel](https://www.youtube.com/watch?v=wDbmf4qXMDs&lc=UgzZlN_osz8uYGm5siR4AaABAg.AcH6Hqs2kb_AcHMj_tcT4m) works perfectly with this mod, but only for the driver seat.
+As far as I know [Hands on the Wheel](https://www.youtube.com/watch?v=AyPVAQ7HUNU) works perfectly with this mod, but only for the driver seat.
 
 [join my discord server](https://discord.gg/5BcPpKHyxg)
 
