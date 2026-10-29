@@ -20,6 +20,8 @@ As far as I know [Hands on the Wheel](https://www.youtube.com/watch?v=AyPVAQ7HUN
 
 [join my discord server](https://discord.gg/5BcPpKHyxg)
 
+interacting with the hazard lights and hand brake and almost causing a crash
+
 [showcase video](https://github.com/user-attachments/assets/c5d82115-5946-47f9-8a56-38cf294c3837)
 
 occupant models are visible in other player's vehicles
