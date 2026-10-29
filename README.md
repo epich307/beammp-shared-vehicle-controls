@@ -22,6 +22,6 @@ As far as I know [Hands on the Wheel](https://www.youtube.com/watch?v=AyPVAQ7HUN
 
 [showcase video](https://github.com/user-attachments/assets/c5d82115-5946-47f9-8a56-38cf294c3837)
 
-player models are visible in their cars
+occupant models are visible in other player's vehicles
 
 <img width="566" height="397" alt="image" src="https://github.com/user-attachments/assets/7c9b546f-3660-4acf-bb5f-8d9ebb3bbf24" />
